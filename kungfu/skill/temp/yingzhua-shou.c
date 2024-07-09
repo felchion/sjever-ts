@@ -1,0 +1,1 @@
+#include "./mj/yingzhua-shou.c"

@@ -1,0 +1,103 @@
+May 17 11:15:22 mudlist
+May 17 11:15:24 ip
+May 17 11:15:52 who
+May 17 11:15:55 score
+May 17 11:16:47 top weapon
+May 17 11:16:55 top pk
+May 17 11:16:59 top 
+May 17 11:17:08 top beauty
+May 17 11:17:14 top armor
+May 17 11:22:58 rehash /cmds/adm
+May 17 11:23:06 dcdir /
+May 17 11:23:11 dc
+May 17 11:23:28 update /cmds/adm/dcdir
+May 17 11:23:36 rehash cmds/adm
+May 17 11:23:39 dcdir /
+May 17 11:23:43 dcdir /adm
+May 17 11:24:41 rehash /cmds/acrh
+May 17 11:24:55 rehash /cmds/arch
+May 17 11:25:00 dcdir /
+May 17 11:25:23 dcdir /adm
+May 17 11:27:04 quit
+Sep 18 10:26:03 ?
+Sep 18 10:26:20 update /adm/daemons/natured
+Sep 18 10:26:23 look
+Sep 18 10:26:23 home
+Sep 18 10:27:09 ?
+Sep 18 10:28:36 ?
+Sep 18 10:28:37 look
+Sep 18 10:28:47 go down
+Sep 18 10:28:50 home
+Sep 18 10:28:56 look
+Sep 18 10:31:15 ?
+Sep 18 10:31:57 look
+May 30 18:11:54 err
+May 30 18:14:32 err
+May 30 18:14:37 err
+May 30 18:15:52 err
+May 30 18:17:10 err
+May 30 18:17:15 score
+May 30 18:17:54 update /adm/daemons/chinesed
+May 30 18:18:06 sc
+May 30 18:19:56 hj me->query(birthday)
+May 30 18:20:00 call me->query(birthday)
+May 30 18:22:17 update
+May 30 18:22:38 update /cmds/usr/sc
+May 30 18:22:39 sc
+May 30 18:23:43 sc?
+May 30 18:23:44 ?
+May 30 18:23:46 hom
+May 30 18:23:48 home
+May 30 18:23:50 skills
+May 30 18:23:51 hp
+May 30 18:24:13 skills
+May 30 18:24:34 home
+May 30 18:24:36 skills
+May 30 18:24:37 score
+May 30 18:25:10 time
+May 30 18:25:15 time
+May 30 18:25:25 test
+May 30 18:29:08 update /cmds/arch/test
+May 30 18:29:13 test time
+May 30 18:29:55 update
+May 30 18:29:59 test time
+May 30 18:30:22 update
+May 30 18:30:24 update
+May 30 18:30:31 test tm
+May 30 18:31:08 update
+May 30 18:31:09 tm
+May 30 18:31:11 test tm
+May 30 18:43:39 test tm
+May 30 18:45:16 time
+May 30 18:46:19 update
+May 30 18:46:22 time tm
+May 30 18:46:25 test tm
+May 30 18:46:40 update /cmds/arch/test
+May 30 18:46:41 test tm
+May 30 18:47:33 time
+May 30 18:49:20 update
+May 30 18:49:23 test tm
+May 30 18:52:50 update /adm/daemons/chinesed
+May 30 18:52:59 update /adm/daemons/chinesed
+May 30 18:53:02 time
+May 30 18:53:45 score
+May 30 18:54:31 time
+May 30 18:57:36 time
+May 30 18:57:44 time
+May 30 19:02:32 time
+May 30 19:02:35 score
+May 30 19:02:49 quit
+May 31 10:27:33 score
+May 31 10:27:47 jiami
+May 31 10:31:07 quit
+May 31 10:57:54 update /cmds/adm/npc
+May 31 11:00:31 update /cmds/adm/jiami
+May 31 11:00:36 update /cmds/adm/npc
+May 31 11:01:02 jiemi /cmds/adm/npc.c
+May 31 11:01:06 jiemi /cmds/adm/npc.c
+May 31 11:01:14 jiemi
+May 31 11:01:25 jiemi /cmds/adm/npc.c
+May 31 11:03:40 update /cmds/adm/ttt.c
+May 31 11:03:45 jiami /cmds/adm/ttt.c
+May 31 11:06:50 quit
+Jun 03 09:26:50 update /adm/daemons/databased

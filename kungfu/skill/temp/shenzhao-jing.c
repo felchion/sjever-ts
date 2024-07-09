@@ -1,0 +1,1 @@
+#include "./quest/shenzhao-jing.c"

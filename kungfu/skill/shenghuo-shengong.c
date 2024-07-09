@@ -1,0 +1,1 @@
+#include "./mj/shenghuo-shengong.c"

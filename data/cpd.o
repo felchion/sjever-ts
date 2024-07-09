@@ -1,0 +1,6 @@
+#/adm/daemons/cpd.c
+reward_list ([])
+die_list ([])
+room_list (["felchion":(["room":"/d/xiangyang/shanxiroad2","flag":1720249208,]),])
+entrance_list (["/d//d/group/entry/caeroad3":(["southeast":"/d/village/shilu5",]),"/d/xiangyang/shanxiroad2":(["north":"/d/village/hsroad3",]),])
+exit_list (["/d/village/hsroad3":(["south":"/d/xiangyang/shanxiroad2",]),"/d/village/shilu5":(["northwest":"/d/group/entry/caeroad3",]),])

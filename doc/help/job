@@ -1,0 +1,44 @@
+ ──────────────────────────────
+                       【书剑任务介绍】                      
+ ──────────────────────────────
+ 
+     书剑是一个以完成任务为主来实现江湖成长的游戏。玩家在成长
+ 的过程中需要根据自身情况、门派、江湖经验的不同，来完成各种任
+ 务。任务的奖励多种多样，任务的形式也各有不同。
+ 
+ ===公众任务(个人)====
+ 
+ wuguan     襄阳武馆任务        xuncheng   大理巡城任务
+ caishi     搬运石头任务        fanyan     扬州贩盐任务
+ songxin    大理送信任务        gaibang    丐帮吴长老任务
+ songshan   嵩山任务            wudang     武当任务
+ xueshan    雪山任务            haizhan    神龙岛海战任务
+ xingxiu    星宿任务            qiangjie   星宿抢劫任务
+ huashan    华山任务            guanfu     官府任务
+ changle    长乐帮任务          tiandi     天地会任务
+ gaoji      边关告急任务        huoshao    火烧草料场任务
+ cisha      刺杀敌将任务        zuocai     洪七公做菜任务
+ 
+ 
+  
+ ====公众任务(团队)====
+ 
+ hubiao     护镖任务            jiuyuan    少林救援任务
+ songmoya   颂摩崖抗敌任务      shiwang    狮王争霸任务（测试期）
+ haizhan    神龙岛海战任务      qqll       七窍玲珑任务
+ 
+ 
+ 
+ ======门派任务========
+ 
+ aozhou     少林熬粥任务        caidi      少林菜地任务
+ lunzhi     少林轮值任务        monk       少林武僧堂任务      
+ dushi      少林渡世济人任务    xunluo     明教巡逻任务
+ shoumu     桃花岛守墓任务      humu       古墓护墓任务        
+ kanchai    华山砍柴任务        qitai      嵩山砌台任务
+ fengchao   古墓蜂巢任务        tiezhang   铁掌帮任务        
+ touxue     慕容偷学任务        yuanbing   峨嵋元兵任务
+ shouding   武当守鼎任务        liandan    武当炼丹任务
+ 
+ 你可用  help job xxx  的格式查看具体任务。
+ 

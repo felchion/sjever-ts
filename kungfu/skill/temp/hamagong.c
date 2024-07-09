@@ -1,0 +1,1 @@
+#include "./quest/hamagong.c"

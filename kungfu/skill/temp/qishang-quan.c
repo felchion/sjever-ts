@@ -1,0 +1,1 @@
+#include "./mj/qishang-quan.c"

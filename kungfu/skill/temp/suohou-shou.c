@@ -1,0 +1,1 @@
+#include "./gb/suohou-shou.c"

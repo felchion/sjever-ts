@@ -1,0 +1,1 @@
+#include "./gm/tianluo-diwang.c"
